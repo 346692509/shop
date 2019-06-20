@@ -54,6 +54,6 @@ return [
     // 标签库标签结束标记
     'taglib_end'   => '}>',
     'tpl_replace_string'  =>  [
-     '__STATIC__'=>'/shop/tp5/public/static',
+     '__STATIC__'=>'static',
     '__ROOT__'=>'5/public']  
 ];
